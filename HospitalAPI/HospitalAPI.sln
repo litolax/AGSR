@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAPI", "HospitalAPI\HospitalAPI.csproj", "{2F34723D-0C66-4709-AE17-451736D31AB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27134193-E6A8-4F71-9235-0AF28B16355F}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F34723D-0C66-4709-AE17-451736D31AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F34723D-0C66-4709-AE17-451736D31AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F34723D-0C66-4709-AE17-451736D31AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F34723D-0C66-4709-AE17-451736D31AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
